@@ -1,4 +1,5 @@
 recreating the file
 
-This is my commit poiunt in fture1
+This is my commit poiunt in feature file
 
+I modified it in master
