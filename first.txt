@@ -1,12 +1,13 @@
+ remote repository work
+ HEAD
 
 reupdate from mster file
 
 featurefile 
+
 
 recreating the file
 
 This is my commit poiunt in feature file
 
 I modified it in master
-
-Hi file changes on 25th nov
